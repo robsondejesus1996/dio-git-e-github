@@ -19,6 +19,10 @@ Repositorio do curso git
 git init
 ```
 
+```
+git teste
+```
+
 
 ## Referências 
 [Referências] (https://docs.github.com/pt)
