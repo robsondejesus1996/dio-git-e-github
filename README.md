@@ -1,33 +1,42 @@
-# Curso de Desenvolvimento Web Avançado
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Code Versioning with Git and GitHub</span>
+</h1>
 
-Bem-vindo ao Curso de Desenvolvimento Web Avançado! Este curso é projetado para pessoas interessadas em aprimorar suas habilidades de programação e desenvolvimento web, abordando conceitos avançados e práticos para criar aplicativos web de alta qualidade.
 
-## Descrição do Curso
-Neste curso, você irá aprender:
 
-- Princípios avançados de design responsivo
-- Desenvolvimento de aplicações web escaláveis
-- Integração de APIs e serviços externos
-- Segurança e melhores práticas para aplicações web
-- Otimização de desempenho e velocidade
-- E muito mais!
+Repository developed for educational purposes, providing support materials for the course **Code Versioning with Git and GitHub
+** da [Digital Innovation One](https://www.dio.me/).
 
-## Instruções para Acesso ao Certificado
-Para obter o certificado do curso, clique no link abaixo:
-- [Certificado de Conclusão](link_para_seu_certificado.pdf)
+[![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
+[![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
 
-Certifique-se de ter concluído todas as atividades e avaliações do curso antes de solicitar o certificado.
 
-## Instruções de Uso
-Para acessar o conteúdo do curso, siga os passos abaixo:
-1. Faça o download dos arquivos do curso ou acesse-os online.
-2. Siga o currículo do curso, completando as lições e exercícios.
-3. Participe dos fóruns de discussão e interaja com outros alunos, se disponível.
-4. Ao concluir todas as lições e requisitos do curso, solicite o certificado conforme as instruções acima.
+## Certificate
+To obtain the course certificate, click on the link below:
+- [Certificate of completion](https://drive.google.com/file/d/1esxfeeQLZu2gMB0fM_uumWF4mQuGprca/view?usp=sharing)
 
-## Contato e Suporte
-Se tiver alguma dúvida ou precisar de suporte adicional, entre em contato conosco através do email: suporte@exemplo.com.
 
-Esperamos que você aproveite o curso e aprimore suas habilidades em desenvolvimento web avançado!
+## Goals
+Introduce code versioning with Git and GitHub.
 
-Happy coding! 🚀
+## Tolls
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+<br>
+
+
+
+
+## Referências
+- [GIT. Documentation](https://git-scm.com/doc)
+- [GITHUB. Documentation](https://docs.github.com/)
+- [GITHUB BLOG. February 28th DDoS Incident Report](https://github.blog/2018-03-01-ddos-incident-report/)
+- [GITHUB BLOG. February 28th DDoS Incident Report](https://github.blog/2018-03-01-ddos-incident-report/)
+- [GITHUB BLOG. Raising the bar for software security: GitHub 2FA begins March 13](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/)
+- [GITHUB BLOG. Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+- [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https:/news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
+
+##
+<div align="center">Dev 👩‍💻<a href="https://github.com/robsondejesus1996">Robson 💻🖲</a>.</div>
