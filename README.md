@@ -7,7 +7,7 @@ Repositorio do curso git
 ##❤🖥💻💾 Documentação 
 -[Documentação github] (https://docs.github.com/pt)
 
-## 👍 Resumos Aulas 
+## 👍 Resumos  
 
 | Aulas | Resumos |
 |-------|---------|
